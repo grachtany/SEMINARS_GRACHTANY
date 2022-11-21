@@ -8,3 +8,4 @@ if (number1 ==4) Console.WriteLine ("Четверг");
 if (number1 ==5) Console.WriteLine ("Пятница");
 if (number1 ==6) Console.WriteLine ("Суббота");
 if (number1 ==7) Console.WriteLine ("Воскресенье");
+else Console.WriteLine("Такого дня недели нет");
